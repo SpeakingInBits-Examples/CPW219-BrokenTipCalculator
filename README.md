@@ -3,7 +3,7 @@ For this project you will debug and fix an app that has some existing errors. Cl
 this repo in your own account. Clone your copy of the repo.
 
 ## Requirements
-- .NET 9 and VS 2022
+- .NET 10 and VS 2026
 
 ## Tasks
 - Compile the program and/or use the Error list window to fix any syntax issues
